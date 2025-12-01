@@ -1,6 +1,6 @@
 ---
-title: "Code of Conduct | secureblue"
-description: "secureblue's Code of Conduct"
+title: "Code of Conduct | Modded Android"
+description: "Modded Android's Code of Conduct"
 permalink: /code-of-conduct
 ---
 

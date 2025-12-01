@@ -1,6 +1,6 @@
 ---
-title: "Contributing | secureblue"
-description: "How to contribute to secureblue"
+title: "Contributing | Modded Android"
+description: "How to contribute to Modded Android"
 permalink: /contributing
 ---
 

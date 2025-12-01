@@ -1,6 +1,6 @@
 ---
-title: "Donate | secureblue"
-description: "Donation options for secureblue"
+title: "Donate | Modded Android"
+description: "Donation options for Modded Android"
 permalink: /donate
 ---
 

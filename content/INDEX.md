@@ -1,6 +1,6 @@
 ---
-title: "secureblue: A security-focused desktop and server linux operating system."
-description: "A security-focused desktop and server linux operating system."
+title: "Modded Android"
+description: "because you should own your phone, not Google."
 permalink: /
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Reporting | secureblue"
+title: "Reporting | Modded Android"
 description: "Project security policy"
 permalink: /reporting
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Features | secureblue"
-description: "List of secureblue features"
+title: "Features | Modded Android"
+description: "List of Modded Android features"
 permalink: /features
 ---
 
