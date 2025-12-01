@@ -1,0 +1,21 @@
+{% assign current_page = page.permalink | remove_first: "/" %}
+
+<!DOCTYPE html>
+<html lang="en" prefix="og: https://ogp.me/ns#">
+    <head>
+        {% include meta.html content = current_page %}
+    </head>
+    <body>
+        {% include header.html content = current_page %}
+
+        {% if current_page == "" %}
+            {% include hero.html %}
+        {% endif %}
+
+        <main>
+            {{ content }}
+        </main>
+
+        {% include footer.html %}
+    </body>
+</html>

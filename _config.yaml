@@ -1,0 +1,13 @@
+domain: modded-android.dev
+url: https://modded-android.dev
+baseurl: /modded-android.dev/
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "page"
+
+exclude: ["README.md"]
+include: ["_headers"]
